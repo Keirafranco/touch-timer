@@ -7,7 +7,7 @@ input.onLogoEvent(TouchButtonEvent.Touched, function () {
         . # . # .
         # . # . #
         . # . # .
-        . . # . #
+        . . # . .
         `)
 })
 input.onLogoEvent(TouchButtonEvent.Released, function () {
